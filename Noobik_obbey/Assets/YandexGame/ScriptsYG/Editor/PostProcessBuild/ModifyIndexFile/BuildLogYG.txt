@@ -1,2 +1,0 @@
-Build path: D:/UnityBuilds/Noob_YG
-Build number: 6
